@@ -7,6 +7,7 @@
 - animated from https://lottiefiles.com
 - background gradient https://webgradients.com
 ## SERVER
-##### Node + Express Server Setup
+##### Node Express Server Setup
 - npm init
 - npm i express nodemon mongoose dotenv
+##### auth api
